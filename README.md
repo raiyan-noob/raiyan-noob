@@ -9,9 +9,11 @@ I’m a CSE student at Ahsanullah University of Science and Technology, passiona
 
 2. [MindEase - A Flutter-based mental wellness app designed to help users manage emotions through personalized activities, breathing exercises, and curated content.](https://github.com/raiyan-noob/MindEase)
 
-3. [Debugging AUST - A 2D platformer game built with C++ and iGraphics library](https://github.com/raiyan-noob/2D-Platformer-Game)
+3. [Castle Design - A React-based portfolio website of an interior design company](https://github.com/raiyan-noob/Castle-design)
 
-4. [Castle Design - A React-based portfolio website of an interior design company](https://github.com/raiyan-noob/Castle-design)
+4. [Dispatch BD - A modern news and media web application built with Next.js](https://github.com/raiyan-noob/Dispatch-BD)
+
+5. [Debugging AUST - A 2D platformer game built with C++ and iGraphics library](https://github.com/raiyan-noob/2D-Platformer-Game)
 
 ## Currently Learning:
 
